@@ -14,9 +14,6 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently helping at [Lyrotopia](https://www.lyrotopia.net)  
-  
-
 - 🌱 I’m currently learning Kubernetes, Tensorflow and Swift  
   
 
