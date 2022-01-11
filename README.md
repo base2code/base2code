@@ -13,9 +13,6 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
 - 🌱 I’m currently learning Tensorflow and Ethical Hacking  
   
 
