@@ -5,7 +5,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
-  #### I moved to a private GitLab instance, because I have to store large private Repositories.
+  #### I mostly moved to a private GitLab instance, because I have to store large private repositories.
 
 <br/>  
 
