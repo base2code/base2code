@@ -91,7 +91,7 @@
 <br/>  
 
 <div>
-            <a href="https://paypal.me/niklas.grenningloh@gmx.de" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/niklasgrenningloh" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="left"
