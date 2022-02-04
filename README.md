@@ -12,7 +12,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Tensorflow and Ethical Hacking  
+- 🌱 I’m currently learning Kubernetes and Tensorflow
   
 
 - ❓ Ask me about anything related to Linux, Docker, Java and Spigot  
