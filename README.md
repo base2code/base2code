@@ -12,7 +12,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Kubernetes and Tensorflow
+- 🌱 I’m currently working on LPIC-2
   
 
 - ❓ Ask me about anything related to Linux, Docker, Java and Spigot  
