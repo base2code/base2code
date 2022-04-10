@@ -12,7 +12,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently working on Scam- / Phsihing Detection
+- 🌱 I’m currently working on Scam- / Phishing Detection
   
 
 - ❓ Ask me about anything related to Linux, Docker, Java and Spigot  
