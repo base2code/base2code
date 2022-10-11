@@ -12,13 +12,10 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently working on Scam- / Phishing Detection
+- 🌱 I’m currently working on LPIC-1
   
 
 - ❓ Ask me about anything related to Linux, Docker, Java and Spigot  
-  
-
-- ⚡ Fun fact: I prefer nano over vim  
 
 
 </td><td valign="top" width="50%">
