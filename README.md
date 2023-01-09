@@ -66,20 +66,8 @@
 
 ## Wakatime Stats
 
-<table><tr><td valign="top" width="50%">
-
-<img style="width:100%" src="https://wakatime.com/share/@base2code/48c6b6a3-b5b2-4221-a86d-0b7267f4c661.png" />
-
-</td><td valign="top" width="50%">
-
-<img style="width:100%" src="https://wakatime.com/share/@base2code/79a3590a-23ba-4951-a74b-5c3108eb77ad.png" /></a>
-  
-</td></tr></table>  
-
-<br/>  
-
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## Github Stats  
