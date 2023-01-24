@@ -69,7 +69,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -147,7 +147,7 @@ JavaScript               1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/base2code/base2code/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/01/2023 18:45:18 UTC
+ Last Updated on 24/01/2023 18:46:46 UTC
 <!--END_SECTION:waka-->
 
 
