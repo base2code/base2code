@@ -4,8 +4,6 @@ on:
   schedule:
     # Runs at 12am IST
     - cron: '0 */3 * * *'
-  push:
-    branches: [main]
   workflow_dispatch:
 jobs:
   update-readme:
