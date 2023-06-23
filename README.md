@@ -67,7 +67,7 @@
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -140,7 +140,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/base2code/base2code/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2023 18:27:12 UTC
+ Last Updated on 23/06/2023 21:21:14 UTC
 <!--END_SECTION:waka-->
 
 
