@@ -116,6 +116,7 @@ ActionScript             5 mins              ░░░░░░░░░░░�
 
 🔥 Editors: 
 IntelliJ                 4 hrs 34 mins       █████████████████████████   100.00 % 
+GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
 Mac                      4 hrs 34 mins       █████████████████████████   100.00 % 
@@ -138,7 +139,7 @@ PLpgSQL                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/base2code/base2code/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2023 01:13:20 UTC
+ Last Updated on 13/09/2023 03:21:15 UTC
 <!--END_SECTION:waka-->
 
 
