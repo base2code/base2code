@@ -62,13 +62,16 @@ Sunday                   3516 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 30 mins        ██████████████████░░░░░░░   70.72 % 
+YAML                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+XML                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             2 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -88,7 +91,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/base2code/base2code/main/assets/bar_graph.png)
 
 
- Last Updated on 18/06/2024 01:21:21 UTC
+ Last Updated on 18/06/2024 03:25:47 UTC
 <!--END_SECTION:waka-->
 
 
