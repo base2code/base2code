@@ -27,8 +27,6 @@
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 493 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -94,7 +92,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/base2code/base2code/main/assets/bar_graph.png)
 
 
- Last Updated on 15/12/2024 06:32:08 UTC
+ Last Updated on 15/12/2024 09:23:28 UTC
 <!--END_SECTION:waka-->
 
 
