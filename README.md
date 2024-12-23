@@ -62,18 +62,13 @@ Sunday                   2095 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Go                       2 mins              ███████████████████████░░   91.85 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   2 mins              ███████████████████████░░   91.85 % 
-PyCharm                  0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -93,7 +88,7 @@ CMake                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/base2code/base2code/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2024 01:42:49 UTC
+ Last Updated on 23/12/2024 03:29:20 UTC
 <!--END_SECTION:waka-->
 
 
