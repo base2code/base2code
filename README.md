@@ -27,8 +27,6 @@
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
-> 🏆 263 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -88,7 +86,7 @@ TeX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/base2code/base2code/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2025 21:22:32 UTC
+ Last Updated on 14/04/2025 01:53:43 UTC
 <!--END_SECTION:waka-->
 
 
